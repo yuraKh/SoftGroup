@@ -12,7 +12,8 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by yurak on 21.03.2017.
+ * @author Yury Khodanitcky
+ * @see TopPhrases
  */
 public class TopPhrasesTest {
 

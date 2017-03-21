@@ -18,7 +18,7 @@ public class FibonacciJUnit {
     Fibonacci fibonacci;
 
     @Before
-    public void initialize() {
+    public void initiate() {
         fibonacci = new Fibonacci();
     }
 
